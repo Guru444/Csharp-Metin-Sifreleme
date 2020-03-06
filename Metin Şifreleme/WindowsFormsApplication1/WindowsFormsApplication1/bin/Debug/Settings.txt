@@ -1,0 +1,4 @@
+Harfolacakmi=1
+Sayiolacakmi=1
+Simgeolacakmi=0
+
